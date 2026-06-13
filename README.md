@@ -371,11 +371,11 @@ endmodule
 
 تست ماژول `SignExtend_9to16` :
 
-![image-20260611124652813](pics/tb_SE_9to16.jpg)
+![tb_SE_9to16](pics/tb_SE_9to16.png)
 
 تست ماژول `SignExtend_12to16` :
 
-![image-20260611124849828](pics/tb_SE_12to16.jpg)
+![tb_SE_9to16](pics/tb_SE_12to16.png)
 
 #### 6.2 ALU
 
